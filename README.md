@@ -44,3 +44,14 @@ npm run start:dev
 cd ../video-stream-frontend
 npm run dev
 ```
+
+# Usage
+1. Open your browser and navigate to http://localhost:5173 to access the application.
+
+2. Explore the video streaming features and functionalities.
+
+# Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+## Note:
+This project is created for educational and exploratory purposes.
